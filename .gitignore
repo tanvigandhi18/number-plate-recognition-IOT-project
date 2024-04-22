@@ -1,0 +1,4 @@
+trained_model
+__pycache__/
+*.mp4
+.ipynb_checkpoints/
